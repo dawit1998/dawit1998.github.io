@@ -1,0 +1,80 @@
+.img-circle{
+	width: 300px;
+	height: 300px;
+	border-radius: 100%;
+}
+.card{
+	margin-top: 20px;
+    margin-bottom: 20px;
+	background-color: white ;
+}
+.card-title{
+	color: lightblue;
+
+}
+.navbar{
+	color: lightblue;
+	background-color: lightblue;
+}
+
+
+
+
+html {
+  background-color: lightblue;
+}
+
+body {
+  background: lightblue;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+strong {
+  color: lightblue;
+}
+
+.navbar {
+  background: #e16879;
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background: #e16879;
+  border-color: #e16879;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #e05164;
+}
+
+.card {
+  border-color: red;
+}
+
+.card-title {
+  color: lightblue;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+.description {
+  background-image: url("/pattern.png");
+  background-repeat: repeat-x;
+}
+.card-text {
+color: ;
+}
+.football {
+	color: red;
+}
